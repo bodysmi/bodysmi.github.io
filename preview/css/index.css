@@ -1,0 +1,45 @@
+
+#nav-logo-menu-2 .bg-wrap {
+	background: rgba(35, 33, 34, 0.76);
+}
+
+#benefits-3col-counter .bg-wrap{
+    background: #444444;
+}
+#benefits-3col-10 .bg {
+    background-image: url('../images/bg-59.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    opacity:0.075;
+}
+#desc-img-text-3 .bg-wrap {
+    background-color: #f4f5f6;
+}
+#action-text-img .bg {
+    background-image: url('../images/bg-14.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.75;
+}
+#price-2col .bg-wrap {
+    background-color: #f4f5f6;
+}
+#action-text-btn .bg {
+    background-image: url('../images/bg-6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.1;
+}
+#gallery-4col-carousel .bg-wrap {
+    background-color: #F2F0ED;
+}
+#subscribe-halfbg-field .bg {
+    background-image: url(../images/bg-pattern-1.png);
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: 200px auto;
+    opacity: 0.075;
+}
